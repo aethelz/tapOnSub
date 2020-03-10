@@ -1,0 +1,20 @@
+{
+  "name": "better-tap-operator",
+  "version": "1.0.0",
+  "description": "Better RxJS tap operator",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w -p ./",
+    "build": "tsc -p ./"
+  },
+  "keywords": [
+    "rxjs",
+    "operators"
+  ],
+  "author": "aethelz",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "rxjs": "^7.0.0-alpha.1",
+    "typescript": "^3.8.3"
+  }
+}
